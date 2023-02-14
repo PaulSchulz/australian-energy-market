@@ -1,0 +1,6 @@
+#+TITLE: Australian Energy Market
+
+* Introduction
+This project aims to collect and collate information on the Australian Energy
+Market as made publically available by AEMO.
+
